@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**Aishwaryashridhar-1512/Aishwaryashridhar-1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aishwarya - a B.Tech student in Artificial Intelligence and Data Science at REVA University, Bengaluru. I like understanding how systems work under the hood, which is what first pulled me toward AI and Data Science.
 
-Here are some ideas to get you started:
+### What I do
+- Backend development with Python and SQL
+- Exploring machine learning and full-stack development
+- Building end-to-end projects, from AI-powered tools to web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio
+Check out my work here: [aishwaryashridhar-1512.github.io/portfolioWebsite2.0](https://aishwaryashridhar-1512.github.io/portfolioWebsite2.0/)
+
+### Find me around
+- LinkedIn: [linkedin.com/in/aishwarya-p-s-685787349](https://www.linkedin.com/in/aishwarya-p-s-685787349)
+- Based in Bengaluru, Karnataka
+
+### Currently
+Building projects that combine AI with practical, real-world applications - one hackathon and one idea at a time.
