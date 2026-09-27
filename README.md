@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there :)
 
 I'm Aishwarya - a B.Tech student in Artificial Intelligence and Data Science at REVA University, Bengaluru. I like understanding how systems work under the hood, which is what first pulled me toward AI and Data Science.
 
